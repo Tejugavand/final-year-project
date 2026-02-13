@@ -7,5 +7,4 @@
 4. Sakshi Walunjkar
 
 ## Description:
-This is our final year engineering project to track daily activity, monitor errors, and see location tracking.
-" 
+A centralized repository for our Final Year Project where all team members can access, update, and manage project files, reports, and code. 
